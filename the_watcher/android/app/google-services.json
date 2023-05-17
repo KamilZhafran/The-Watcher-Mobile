@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "352903375107",
+    "project_id": "thewatcher-87d35",
+    "storage_bucket": "thewatcher-87d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352903375107:android:3f186f9543da098e56a136",
+        "android_client_info": {
+          "package_name": "com.example.the_watcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352903375107-kktfm4ccvl2vt6kdtc722evvnrsc6uma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6og93Lb1mcIl4F-GHn5KLO6ejNNg9mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352903375107-kktfm4ccvl2vt6kdtc722evvnrsc6uma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352903375107:android:d28ee237242a734c56a136",
+        "android_client_info": {
+          "package_name": "com.example.thewatcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352903375107-kktfm4ccvl2vt6kdtc722evvnrsc6uma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6og93Lb1mcIl4F-GHn5KLO6ejNNg9mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352903375107-kktfm4ccvl2vt6kdtc722evvnrsc6uma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
